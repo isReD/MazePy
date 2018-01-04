@@ -1,5 +1,5 @@
 # MazePy
-Basic Maze Game in Python
+Basic Maze Game in Python (November 2017)
 
 Description --------------------------------
 - "maze.py" contains classes for controling the bahavior and the appearance of the maze 
