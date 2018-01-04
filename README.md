@@ -8,7 +8,10 @@ Description --------------------------------
 - Les cartes sont prédéfinies, facilement modifiables et sauvegardées dans le dossier/maps.
 
 Rules --------------------------------------
-To be defined later.
+This is classical 2D game maze. 
+When the game starts, enter your name. 
+If you have an active game, it will be loaded.
+Otherwise, choose th maze level and start playing.
 
 
 
